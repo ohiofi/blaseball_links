@@ -7,3 +7,4 @@ a collection of helpful Blaseball links
 | [SIBR](https://sibr.dev/#/)| Society for Internet Blaseball Research |
 | [tome.sibr.dev](http://tome.sibr.dev) | Individual game stats. Even includes previous seasons. |
 | [Blases Loaded](https://blases-loaded.sibr.dev/#/)| Text-to-speech play-by-play |
+| [Wii Splorts](https://wii.blaseball.xyz/| Awesome Wii-like visualizations |
