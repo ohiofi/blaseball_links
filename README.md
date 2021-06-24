@@ -8,3 +8,5 @@ a collection of helpful Blaseball links
 | [tome.sibr.dev](http://tome.sibr.dev) | Individual game stats. Even includes previous seasons. |
 | [Blases Loaded](https://blases-loaded.sibr.dev/#/)| Text-to-speech play-by-play |
 | [Wii Splorts](https://wii.blaseball.xyz/)| Awesome Wii-like visualizations but crashes often |
+| [Gift Progress Viewer](https://www.enbyss.com/content/tools/blaseball-gifts)||
+|[https://www.splortsmanship.cool/](https://www.splortsmanship.cool/)||
