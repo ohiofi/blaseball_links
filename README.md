@@ -11,3 +11,4 @@ a collection of helpful Blaseball links
 | [Gift Progress Viewer](https://www.enbyss.com/content/tools/blaseball-gifts)||
 |[https://www.splortsmanship.cool/](https://www.splortsmanship.cool/)||
 |[Blaseball Playoff Odds](https://mixolyde.net/blaseballstatus/index.html#activeLeague=0&activeView=4&groupByDiv=false)||
+|[Sibr snacks](https://snacks.sibr.dev)|Predicted snack earnings|
