@@ -5,9 +5,9 @@ a collection of helpful Blaseball links
 |---|---|
 |[https://chartographer.sibr.dev/](https://chartographer.sibr.dev/)| SIBR Chartographer |
 
+New/working links ↑
 
-
-Old/broken links
+Old/broken links ↓
 
 
 | [blaseball-reference.com](http://blaseball-reference.com)  | Player stats, team stats, league stats. Good for finding the best hitter in the league, etc.  |
