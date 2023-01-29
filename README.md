@@ -3,6 +3,13 @@ a collection of helpful Blaseball links
 
 | Link  | Description  |
 |---|---|
+|[https://chartographer.sibr.dev/](https://chartographer.sibr.dev/)| SIBR Chartographer |
+
+
+
+Old/broken links
+
+|---|---|
 | [blaseball-reference.com](http://blaseball-reference.com)  | Player stats, team stats, league stats. Good for finding the best hitter in the league, etc.  |
 | [SIBR](https://sibr.dev/#/)| Society for Internet Blaseball Research |
 | [tome.sibr.dev](http://tome.sibr.dev) | Individual game stats. Even includes previous seasons. |
